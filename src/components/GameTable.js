@@ -1,4 +1,5 @@
 // import React, { useState } from 'react';
+import './GameTable.css';
 import Card from './Card.js';
 import Blendin from '../assets/blendin.png';
 import Dipper from '../assets/dipper.png';
@@ -25,14 +26,12 @@ function GameTable() {
 		{ key: 'wendy', name: 'Wendy', image: Wendy },
 	];
 	return (
-		<div>
+		<div className="Card-Container">
 			{cards.map((card) => {
-				// return <li> {card.name}</li>;
 				return (
 					<Card key={card.key} image={card.image} name={card.name} />
 				);
 			})}
-			;
 		</div>
 	);
 }
