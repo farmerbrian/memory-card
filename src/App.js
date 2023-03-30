@@ -30,12 +30,20 @@ function App() {
 	}
 	return (
 		<div className="App">
-			<div>
-				<h1>Gravity Falls Memory Game</h1>
-			</div>
-			<div>
-				<h2>Your Score: {score}</h2>
-				<h2>High Score: {highScore}</h2>
+			<div className="Header">
+				<div>
+					<h1>Gravity Falls Memory Game</h1>
+					<h3>
+						Try and click all of the cards without clicking the same
+						one twice!
+					</h3>
+				</div>
+				<div>
+					<h2>
+						Your Score: {score} - High Score: {highScore}
+					</h2>
+					<h2></h2>
+				</div>
 			</div>
 			<div>
 				<GameTable
