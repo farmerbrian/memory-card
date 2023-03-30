@@ -69,7 +69,7 @@ function GameTable(props) {
 						name={cards[position].name}
 						highScore={props.setHighScore}
 						incrementScore={props.incrementScore}
-						reset={props.setReset}
+						reset={props.reset}
 						gameOver={props.gameOver}
 						randomizeCards={randomizeCards}
 					/>

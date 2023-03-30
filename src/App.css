@@ -1,6 +1,7 @@
 body {
   background-image: url('./assets/background.png');
-  color: rgb(208, 196, 197);
+  /* color: rgb(208, 196, 197); */
+  color: white;
 }
 
 .App {
