@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.e9b78151.css",
+    "main.js": "/memory-card/static/js/main.c5566802.js",
+    "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/background.png": "/memory-card/static/media/background.9e875a334f11291efbe9.png",
+    "static/media/ford.png": "/memory-card/static/media/ford.43954bfba4ea73c3e6af.png",
+    "static/media/wendy.png": "/memory-card/static/media/wendy.6dce7e862723e858b09f.png",
+    "static/media/gideon.png": "/memory-card/static/media/gideon.90a414f210ed742d994a.png",
+    "static/media/grenda.png": "/memory-card/static/media/grenda.3e2a4f1b8097f6fad585.png",
+    "static/media/mcgucket.png": "/memory-card/static/media/mcgucket.7bd08e7d9cdce5c67277.png",
+    "static/media/blendin.png": "/memory-card/static/media/blendin.b0e3aa53d0c929f25947.png",
+    "static/media/dipper.png": "/memory-card/static/media/dipper.c014b966e82708540e64.png",
+    "static/media/waddles.png": "/memory-card/static/media/waddles.1ca76c443e705b1a6125.png",
+    "static/media/mabel.png": "/memory-card/static/media/mabel.6912c64608e5f65d5bc2.png",
+    "static/media/stan.png": "/memory-card/static/media/stan.bc09f762edc8c4fa2985.png",
+    "index.html": "/memory-card/index.html",
+    "main.e9b78151.css.map": "/memory-card/static/css/main.e9b78151.css.map",
+    "main.c5566802.js.map": "/memory-card/static/js/main.c5566802.js.map",
+    "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b78151.css",
+    "static/js/main.c5566802.js"
+  ]
+}
