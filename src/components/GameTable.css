@@ -2,5 +2,8 @@
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-
+  width: 75%;
+  justify-items: center;
+  margin: auto;
+  align-items: center;
 }
